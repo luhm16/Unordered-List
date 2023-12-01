@@ -1,0 +1,15 @@
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkmagenta;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 60%;
+}
+
+
+li{
+    background-color: darkred;
+    margin-bottom: 5px;
+    padding: 5px;
+}
